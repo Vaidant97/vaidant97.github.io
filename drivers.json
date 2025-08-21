@@ -1,0 +1,352 @@
+[
+    {
+        "driver_id": "DRV001",
+        "join_date": "2024-10-11",
+        "revenue_collected": 1751.21,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV001"
+    },
+    {
+        "driver_id": "DRV002",
+        "join_date": "2025-01-07",
+        "revenue_collected": 2007.91,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV002"
+    },
+    {
+        "driver_id": "DRV003",
+        "join_date": "2024-06-18",
+        "revenue_collected": 4866.94,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV003"
+    },
+    {
+        "driver_id": "DRV004",
+        "join_date": "2024-12-01",
+        "revenue_collected": 9341.59,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV004"
+    },
+    {
+        "driver_id": "DRV005",
+        "join_date": "2024-10-05",
+        "revenue_collected": 9956.94,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV005"
+    },
+    {
+        "driver_id": "DRV006",
+        "join_date": "2025-07-06",
+        "revenue_collected": 5033.28,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV006"
+    },
+    {
+        "driver_id": "DRV007",
+        "join_date": "2023-08-25",
+        "revenue_collected": 7832.8,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV007"
+    },
+    {
+        "driver_id": "DRV008",
+        "join_date": "2024-01-24",
+        "revenue_collected": 3174.85,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV008"
+    },
+    {
+        "driver_id": "DRV009",
+        "join_date": "2023-11-25",
+        "revenue_collected": 9951.14,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV009"
+    },
+    {
+        "driver_id": "DRV010",
+        "join_date": "2025-03-09",
+        "revenue_collected": 1711.07,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV010"
+    },
+    {
+        "driver_id": "DRV011",
+        "join_date": "2024-01-26",
+        "revenue_collected": 5957.87,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV011"
+    },
+    {
+        "driver_id": "DRV012",
+        "join_date": "2024-03-21",
+        "revenue_collected": 3487.39,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV012"
+    },
+    {
+        "driver_id": "DRV013",
+        "join_date": "2024-02-22",
+        "revenue_collected": 8212.77,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV013"
+    },
+    {
+        "driver_id": "DRV014",
+        "join_date": "2024-04-10",
+        "revenue_collected": 1632.65,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV014"
+    },
+    {
+        "driver_id": "DRV015",
+        "join_date": "2024-01-08",
+        "revenue_collected": 7671.11,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV015"
+    },
+    {
+        "driver_id": "DRV016",
+        "join_date": "2023-09-29",
+        "revenue_collected": 6844.86,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV016"
+    },
+    {
+        "driver_id": "DRV017",
+        "join_date": "2023-11-10",
+        "revenue_collected": 4196.28,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV017"
+    },
+    {
+        "driver_id": "DRV018",
+        "join_date": "2024-07-13",
+        "revenue_collected": 6624.42,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV018"
+    },
+    {
+        "driver_id": "DRV019",
+        "join_date": "2023-10-09",
+        "revenue_collected": 9214.13,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV019"
+    },
+    {
+        "driver_id": "DRV020",
+        "join_date": "2023-09-16",
+        "revenue_collected": 6017.42,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV020"
+    },
+    {
+        "driver_id": "DRV021",
+        "join_date": "2024-07-30",
+        "revenue_collected": 9385.58,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV021"
+    },
+    {
+        "driver_id": "DRV022",
+        "join_date": "2023-11-12",
+        "revenue_collected": 2733.43,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV022"
+    },
+    {
+        "driver_id": "DRV023",
+        "join_date": "2024-12-26",
+        "revenue_collected": 6543.11,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV023"
+    },
+    {
+        "driver_id": "DRV024",
+        "join_date": "2025-06-15",
+        "revenue_collected": 1105.74,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV024"
+    },
+    {
+        "driver_id": "DRV025",
+        "join_date": "2024-12-24",
+        "revenue_collected": 1990.09,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV025"
+    },
+    {
+        "driver_id": "DRV026",
+        "join_date": "2023-12-20",
+        "revenue_collected": 4175.93,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV026"
+    },
+    {
+        "driver_id": "DRV027",
+        "join_date": "2025-04-20",
+        "revenue_collected": 9707.96,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV027"
+    },
+    {
+        "driver_id": "DRV028",
+        "join_date": "2024-12-15",
+        "revenue_collected": 9102.84,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV028"
+    },
+    {
+        "driver_id": "DRV029",
+        "join_date": "2023-11-15",
+        "revenue_collected": 9023.27,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV029"
+    },
+    {
+        "driver_id": "DRV030",
+        "join_date": "2024-10-16",
+        "revenue_collected": 1155.66,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV030"
+    },
+    {
+        "driver_id": "DRV031",
+        "join_date": "2023-11-28",
+        "revenue_collected": 5772.66,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV031"
+    },
+    {
+        "driver_id": "DRV032",
+        "join_date": "2024-05-27",
+        "revenue_collected": 7665.93,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV032"
+    },
+    {
+        "driver_id": "DRV033",
+        "join_date": "2025-01-16",
+        "revenue_collected": 5343.89,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV033"
+    },
+    {
+        "driver_id": "DRV034",
+        "join_date": "2024-10-03",
+        "revenue_collected": 7176.59,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV034"
+    },
+    {
+        "driver_id": "DRV035",
+        "join_date": "2025-02-03",
+        "revenue_collected": 2671.29,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV035"
+    },
+    {
+        "driver_id": "DRV036",
+        "join_date": "2024-07-26",
+        "revenue_collected": 7846.39,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV036"
+    },
+    {
+        "driver_id": "DRV037",
+        "join_date": "2025-02-04",
+        "revenue_collected": 9336.39,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV037"
+    },
+    {
+        "driver_id": "DRV038",
+        "join_date": "2025-06-24",
+        "revenue_collected": 1312.58,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV038"
+    },
+    {
+        "driver_id": "DRV039",
+        "join_date": "2024-12-06",
+        "revenue_collected": 9280.93,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV039"
+    },
+    {
+        "driver_id": "DRV040",
+        "join_date": "2024-07-16",
+        "revenue_collected": 7470.06,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV040"
+    },
+    {
+        "driver_id": "DRV041",
+        "join_date": "2024-05-18",
+        "revenue_collected": 3782.83,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV041"
+    },
+    {
+        "driver_id": "DRV042",
+        "join_date": "2023-12-25",
+        "revenue_collected": 2822.78,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV042"
+    },
+    {
+        "driver_id": "DRV043",
+        "join_date": "2024-01-13",
+        "revenue_collected": 7085.14,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV043"
+    },
+    {
+        "driver_id": "DRV044",
+        "join_date": "2024-10-09",
+        "revenue_collected": 9574.7,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV044"
+    },
+    {
+        "driver_id": "DRV045",
+        "join_date": "2024-03-18",
+        "revenue_collected": 9692.76,
+        "region": "East",
+        "other_data": "Some additional data for driver DRV045"
+    },
+    {
+        "driver_id": "DRV046",
+        "join_date": "2024-07-19",
+        "revenue_collected": 2295.19,
+        "region": "North",
+        "other_data": "Some additional data for driver DRV046"
+    },
+    {
+        "driver_id": "DRV047",
+        "join_date": "2024-09-19",
+        "revenue_collected": 7955.9,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV047"
+    },
+    {
+        "driver_id": "DRV048",
+        "join_date": "2024-03-18",
+        "revenue_collected": 7015.44,
+        "region": "West",
+        "other_data": "Some additional data for driver DRV048"
+    },
+    {
+        "driver_id": "DRV049",
+        "join_date": "2023-12-17",
+        "revenue_collected": 5015.08,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV049"
+    },
+    {
+        "driver_id": "DRV050",
+        "join_date": "2025-01-03",
+        "revenue_collected": 7257.03,
+        "region": "South",
+        "other_data": "Some additional data for driver DRV050"
+    }
+]

@@ -57,19 +57,11 @@
     ],
     "problems": [
       {
-        "code": "low_speed_limit",
+        "code": "low_speed",
         "severity": "minor",
         "detail": "speed is low, wants higher",
         "evidence_quotes": [
           "right now it's running at 20-25, its speed, if its average speed is made 25-30."
-        ]
-      },
-      {
-        "code": "feature_request_speed",
-        "severity": "minor",
-        "detail": "requests higher speed",
-        "evidence_quotes": [
-          "Please do two or three things. Increase the speed a little and get this charging system done."
         ]
       },
       {
@@ -265,35 +257,11 @@
         ]
       },
       {
-        "code": "time_not_identified",
-        "severity": "major",
-        "detail": "swap time unclear, takes a day or two",
-        "evidence_quotes": [
-          "Yes, it takes a day or two, right?"
-        ]
-      },
-      {
-        "code": "feature_request_speed",
+        "code": "low_speed",
         "severity": "minor",
         "detail": "wants higher speed",
         "evidence_quotes": [
           "just look at its speed a little bit, and there is a battery station."
-        ]
-      },
-      {
-        "code": "feature_request_speed",
-        "severity": "minor",
-        "detail": "expand charging station",
-        "evidence_quotes": [
-          "you will have to expand your charging station."
-        ]
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "orders per day not specified",
-        "evidence_quotes": [
-          "it happens in 25 to 60 years"
         ]
       }
     ]
@@ -353,7 +321,7 @@
         ]
       },
       {
-        "code": "time_not_predictable",
+        "code": "high_swap_time",
         "severity": "major",
         "detail": "Swap time is unpredictable",
         "evidence_quotes": [
@@ -406,24 +374,12 @@
     ],
     "problems": [
       {
-        "code": "feature_request_speed",
+        "code": "low_speed",
         "severity": "minor",
         "detail": "wants more speed",
         "evidence_quotes": [
           "it's just that if it had a little more speed, it would have been better."
         ]
-      },
-      {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "swap time not specified",
-        "evidence_quotes": []
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "orders per day not specified",
-        "evidence_quotes": []
       }
     ]
   },
@@ -490,16 +446,7 @@
         ]
       }
     ],
-    "problems": [
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "Order count not specified",
-        "evidence_quotes": [
-          "25 to 30 minutes."
-        ]
-      }
-    ]
+    "problems": []
   },
   {
     "call_id": "9431203.mp3",
@@ -751,7 +698,7 @@
     ],
     "problems": [
       {
-        "code": "low_speed_limit",
+        "code": "low_speed",
         "severity": "moderate",
         "detail": "Bike doesn't pick up much speed",
         "evidence_quotes": [
@@ -768,7 +715,7 @@
         ]
       },
       {
-        "code": "feature_request_speed",
+        "code": "low_speed",
         "severity": "moderate",
         "detail": "Wants higher speed",
         "evidence_quotes": [
@@ -1108,25 +1055,11 @@
     ],
     "problems": [
       {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "swap time not specified",
-        "evidence_quotes": []
-      },
-      {
         "code": "unclear_experience_level",
         "severity": "minor",
         "detail": "experience level not clear",
         "evidence_quotes": [
           "First thing to do."
-        ]
-      },
-      {
-        "code": "company_not_specified",
-        "severity": "minor",
-        "detail": "company not specified",
-        "evidence_quotes": [
-          "Look."
         ]
       },
       {
@@ -1296,16 +1229,7 @@
         ]
       }
     ],
-    "problems": [
-      {
-        "code": "X",
-        "severity": "minor",
-        "detail": "Company not clearly stated",
-        "evidence_quotes": [
-          "It is a war, it is a war."
-        ]
-      }
-    ]
+    "problems": []
   },
   {
     "call_id": "9247957.mp3",
@@ -1349,16 +1273,7 @@
         ]
       }
     ],
-    "problems": [
-      {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "Has not swapped battery, time unknown",
-        "evidence_quotes": [
-          "I haven't done it, ma'am, but I know how much time it takes."
-        ]
-      }
-    ]
+    "problems": []
   },
   {
     "call_id": "9261838.mp3",
@@ -1423,16 +1338,7 @@
         ]
       }
     ],
-    "problems": [
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "orders per day not specified",
-        "evidence_quotes": [
-          "Which is approximately ₹300."
-        ]
-      }
-    ]
+    "problems": []
   },
   {
     "call_id": "9386524.mp3",
@@ -1760,26 +1666,12 @@
         ]
       },
       {
-        "code": "time_not_identified",
-        "severity": "moderate",
-        "detail": "swap time not clearly identified",
-        "evidence_quotes": [
-          "It will be running for the first three days, it will change in two weeks."
-        ]
-      },
-      {
-        "code": "feature_request_speed",
+        "code": "low_speed",
         "severity": "minor",
         "detail": "requests increased battery range",
         "evidence_quotes": [
           "you can increase the range of the battery a little in college."
         ]
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "orders per day not specified",
-        "evidence_quotes": []
       }
     ]
   },
@@ -1847,16 +1739,7 @@
         ]
       }
     ],
-    "problems": [
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "order count not clearly specified",
-        "evidence_quotes": [
-          "I am new to Bangalore city, but still, I have 20-25 thousand."
-        ]
-      }
-    ]
+    "problems": []
   },
   {
     "call_id": "9430708.mp3",
@@ -2092,15 +1975,6 @@
         "evidence_quotes": [
           "It's good, and if it were a little faster, it would have been even better."
         ]
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "orders per day not specified",
-        "evidence_quotes": [
-          "Madam, do you need all of this too?",
-          "Do you need all this information?"
-        ]
       }
     ]
   },
@@ -2302,7 +2176,7 @@
     ],
     "problems": [
       {
-        "code": "low_speed_limit",
+        "code": "low_speed",
         "severity": "major",
         "detail": "Very difficult due to low speed",
         "evidence_quotes": [
@@ -2533,12 +2407,6 @@
         "evidence_quotes": [
           "Increase the speed a little, increase the speed a little. Give it a speed of 40, 40."
         ]
-      },
-      {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "Swap time not specified",
-        "evidence_quotes": []
       }
     ]
   },
@@ -2600,7 +2468,7 @@
     ],
     "problems": [
       {
-        "code": "time_not_reliable",
+        "code": "high_swap_time",
         "severity": "major",
         "detail": "Swap time can take 1-2 hours if crowded",
         "evidence_quotes": [
@@ -2608,7 +2476,7 @@
         ]
       },
       {
-        "code": "time_not_predictable",
+        "code": "high_swap_time",
         "severity": "major",
         "detail": "Swap time not predictable due to crowd",
         "evidence_quotes": [
@@ -2739,20 +2607,6 @@
         "detail": "Ride quality is bad",
         "evidence_quotes": [
           "It's not like that, it's bad."
-        ]
-      },
-      {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "Swap time not specified",
-        "evidence_quotes": []
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "Orders per day not specified",
-        "evidence_quotes": [
-          "I am having breakfast. I don't have any problem, but I don't know."
         ]
       },
       {
@@ -3054,7 +2908,7 @@
         ]
       },
       {
-        "code": "time_not_reliable",
+        "code": "high_swap_time",
         "severity": "major",
         "detail": "Swap time not reliable",
         "evidence_quotes": [
@@ -3062,7 +2916,7 @@
         ]
       },
       {
-        "code": "time_not_predictable",
+        "code": "high_swap_time",
         "severity": "major",
         "detail": "Swap time not predictable",
         "evidence_quotes": [
@@ -3212,14 +3066,6 @@
         "evidence_quotes": [
           "It's okay now, but there is a problem during the break."
         ]
-      },
-      {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "swap time not specified",
-        "evidence_quotes": [
-          "We will change the battery, we will change the battery."
-        ]
       }
     ]
   },
@@ -3320,22 +3166,6 @@
         "detail": "Did not understand question about riding",
         "evidence_quotes": [
           "I don't understand what you are saying."
-        ]
-      },
-      {
-        "code": "time_not_identified",
-        "severity": "minor",
-        "detail": "Swap time not specified",
-        "evidence_quotes": [
-          "I bring a day and a month in one go."
-        ]
-      },
-      {
-        "code": "company_not_specified",
-        "severity": "minor",
-        "detail": "Company not clearly named",
-        "evidence_quotes": [
-          "I am in the building queen."
         ]
       }
     ]
@@ -3452,19 +3282,11 @@
         ]
       },
       {
-        "code": "time_not_reliable",
+        "code": "high_swap_time",
         "severity": "minor",
         "detail": "Swap time not always reliable",
         "evidence_quotes": [
           "sometimes when I'm on the phone, it takes time, otherwise 15-20 minutes."
-        ]
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "Orders per day not specified",
-        "evidence_quotes": [
-          "Yes, it is ₹120 per ton."
         ]
       }
     ]
@@ -3624,31 +3446,6 @@
         "detail": "some confusion with app",
         "evidence_quotes": [
           "Oh, I don't understand."
-        ]
-      },
-      {
-        "code": "not_specified",
-        "severity": "minor",
-        "detail": "orders per day not specified",
-        "evidence_quotes": [
-          "Now, I don't know about that. What is it? Show me there."
-        ]
-      },
-      {
-        "code": "X",
-        "severity": "minor",
-        "detail": "company not specified",
-        "evidence_quotes": [
-          "I am doing it in the center.",
-          "Requested, requested."
-        ]
-      },
-      {
-        "code": "X",
-        "severity": "minor",
-        "detail": "job type not specified",
-        "evidence_quotes": [
-          "They are saying it is a lot."
         ]
       }
     ]

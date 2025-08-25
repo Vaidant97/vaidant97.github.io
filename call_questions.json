@@ -1,0 +1,5013 @@
+[
+  {
+    "call_id": "8431834.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "easy_to_ride",
+          "low_speed_limit"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's going great, but it gets a little bit of speed and screws in it, you know.",
+          "right now it's running at 20-25, its speed, if its average speed is made 25-30."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's going great, but it gets a little bit of speed and screws in it, you know.",
+          "right now it's running at 20-25, its speed, if its average speed is made 25-30."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "One minute."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no, no problem."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "positive",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "feature_request_speed",
+          "feature_request_mobile_charging"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Please do two or three things. Increase the speed a little and get this charging system done.",
+          "If something like a hawk is imitated and a mobile charging system is installed, it will be even better."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "experience_level_prior",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I have done it with my bike.",
+          "Yes, yes, yes, with that."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So, look and blink."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "do full time in the second time speed game"
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "it's becoming the same 20 to 30."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "reason_bike_quality",
+          "reason_availability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Because its battery duration is long and it is easily provided, the service is also good."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "source_online"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Through Rydraon and through ads."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9201276-1.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "that's right, meaning it's running for 24 hours, meaning at a speed of 24."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It takes 5 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Me, first time.",
+          "Yes, I know everything."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Should."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Pattern."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "25, 20."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "had Activa, switched to electric"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Actually, I had an Activa, but we were getting it from Kalma, so we took it out from the electric"
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_online"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "we were searching on YouTube, we couldn't find the throw."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9295539.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "This is correct."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It takes one to two minutes, ma'am."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Everything is understandable in the case, there is no requirement for any other function in the Yulu app. No, there"
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "matter_of_concern"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is a matter of concern."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Blink it means."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "20 children?"
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_availability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "We didn't have a bike. We didn't have a bike."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "My friend gave me information."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9374032.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, ma'am."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "poor_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Ma'am, the bike's quality is okay, but it runs a little slow."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, it takes a day or two, right?"
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, it takes a day or two, right?"
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes ma'am, absolutely."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "feature_request_speed"
+        ],
+        "suggested_tags": [
+          "expand_battery_station"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "just look at its speed a little bit, and there is a battery station.",
+          "you will have to expand your charging station."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_prior"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, I am not my first time."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "company_not_specified"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Now what will happen?"
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [
+          "orders_per_day_range_unclear"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "it happens in 25 to 60 years"
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_bike_quality",
+          "reason_availability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "there are no other options available, and this is a bit smoother, a smaller bike that we can take out"
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_visible_bike_on_road"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "from here, like we used to come and go, earlier we used to come to Delhi.",
+          "the place that was of Leelu, so from there, all the spikes were installed."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9428575.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [
+          "easy_to_ride",
+          "low_battery_range"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, ma'am, it's easy. But the problem is very big.",
+          "its battery backup is also very bad, the battery backup is also very bad."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [
+          "hard_to_change_battery",
+          "queue_at_station"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I went to the service center and spoke to the battery guy.",
+          "there were quite a few people, about 20-25 people. Even now, they are worried at the service center."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [
+          "took_X_minutes",
+          "time_not_predictable"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "it's been about 40-45 minutes, and our battery hasn't been saved."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 6,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [],
+        "suggested_tags": [
+          "battery_backup_issue"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "its battery backup is also very bad, the battery backup is also very bad."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I have been doing it for a week."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "At Zomato."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "part_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Ma'am, I am not doing full time at this time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_referral"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I met my friend and I took it from Manjeet Park."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I met my friend and I took it from Manjeet Park."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9428926.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "We are doing it now."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The quality is also good, ma'am, it's just that if it had a little more speed, it would have been"
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, Ma'am."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, I."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "feature_request_speed"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "it's just that if it had a little more speed, it would have been better."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I have been doing electrical work for quite some time, and I am first time in a rented bike."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "They have given full touch print."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9431188.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's easy to do."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes Madam, it is being done Madam."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Brother, it won't take more than two or three minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes.",
+          "No, no ma'am, nothing, sir, it's done."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_prior"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I had done it a year ago as well. It's been almost two years for me."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [
+          "order_count_ambiguous"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "25 to 30 minutes."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "source_in_person"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I met him in Delhi at Dwarka Sector 14."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431203.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, I do."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "5 minutes, 10 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, it is coming.",
+          "No, now there is no problem, and everything is going well."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_prior"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am doing it for weeks."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Zomato."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Eight, nine, ten."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_referral",
+          "reason_bike_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "He knew it would be good. That's why he brought me this yellow bike."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I had a brother who used a yellow bike."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431205.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "That it works well, it's correct."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It takes 1 to 2 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No ma'am."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "How correct is this link?"
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No sir, I am doing it for the first time.",
+          "Yes. Yes, yes."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Zomato."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "20 to 25"
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_bike_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's a great bike, it's good."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "found_battery_center_sector_34_45"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Here, here in sector 34, there is one of its, the battery one.",
+          "We found out from the battery sensor that it was found in Sector 45."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431225.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, okay."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So that's fine, but it would be great if the speed increased a little, right?"
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Minimum one to one and a half minutes, two minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no, it's okay."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [],
+        "suggested_tags": [
+          "station_closed_lunch"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "charging station of yours, it sometimes remains off, because of that one has to face a lot of trouble",
+          "It was closed yesterday. Yes, it was closed yesterday. Because of that, ma'am, if our incentive gets damaged during work"
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "experience_level_prior",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am doing this for the first time, I have been doing this kind of work for a long time.",
+          "Yes, yes, okay, I know."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am Swiggy."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Minimum 25."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_low_tension"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Because it is hassle-free.",
+          "There is no load in it."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Where I am working, many people were working on this bike, so I found out from them and brought it."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431305.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [
+          "easy_to_ride",
+          "low_speed_limit"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, Madam.",
+          "The bike doesn't pick up much speed."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [
+          "good_ride_quality",
+          "poor_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It works fine, but ma'am, the speed in it...",
+          "The bike doesn't pick up much speed."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It will take four to five minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, I am here.",
+          "No, ma'am."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [
+          "feature_request_speed"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The bike doesn't pick up much speed."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "experience_level_prior"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "We have done this before as well."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "This is a link."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full tone, full tone."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "reason_bike_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Its charge backup is good, basically."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I found out from another boy, I found out from him."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431377.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes.",
+          "To change the battery."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "10 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes.",
+          "No."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "First time."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full class."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "15-16."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9432170.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "it's easy to drive, there is no problem in riding it.",
+          "No, not right now."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "There is no problem right now."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It doesn't take much time to change the battery."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It doesn't take much time to change the battery."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Everything is clear in the Yulu application."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I will have to go get the brakes tightened in a day or two."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, I am doing it for the first time.",
+          "Yes, yes, YouTube."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am in Swiggy right now.",
+          "I am in Swiggy."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "We do it full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "yesterday I did 13. The day before yesterday, I did 16 or 17."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_availability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The other bike is not there right now."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9432578.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So that."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "For now, it is still going on."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay, I won't take much time, just one or two minutes."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "just one or two minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes, this is also fine, there is no problem."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The entire feedback is okay, it's good."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, mine is first."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Zomato."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "part_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is part of the rule."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Let's order 8, 10, 12."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_nearby_station"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It was near me, and I found out it was okay, so I took the photo."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I will tell you the details."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "5831916.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "If you book a rogan, it means you have to change the battery.",
+          "Yes, I will do it."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": "10 minutes",
+        "evidence_quotes": [
+          "It might take 10 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [
+          "easy_app_usability"
+        ],
+        "suggested_tags": [],
+        "notes_short": "App is easy, but sometimes shopkeeper not there during lunch.",
+        "evidence_quotes": [
+          "Yes, I use that.",
+          "Oh, sometimes it happens that even the shopkeeper is not there."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": "No feedback yet.",
+        "evidence_quotes": [
+          "Right now, I myself am not understanding this. I will understand, and then I will tell you."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": "First time doing delivery.",
+        "evidence_quotes": [
+          "You are doing it for the first time, right?",
+          "So, that's what I am trying to do."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": "Company: Sewing (likely Swiggy, but unclear).",
+        "evidence_quotes": [
+          "Sewing."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": "Work type unclear.",
+        "evidence_quotes": [
+          "Yes, it was like that, as one pleases."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": "3-4 orders per day.",
+        "evidence_quotes": [
+          "Three, four.",
+          "I am trying to do three or four orders right now, just checking."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_low_tension"
+        ],
+        "suggested_tags": [],
+        "notes_short": "Chose Yulu for low tension.",
+        "evidence_quotes": [
+          "He doesn't have any tension, right? If he recharges it, it will work, otherwise it won't."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_online"
+        ],
+        "suggested_tags": [],
+        "notes_short": "Heard about Yulu online.",
+        "evidence_quotes": [
+          "Online calls, excellent."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "8445509.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Using a bike here is good."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes Madam."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "just five to ten minutes",
+          "it takes two minutes to sense. One, two minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes Madam. I mean, it's not easy. It's easy, Madam.",
+          "No, no Madam."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_prior"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I have driven a Tesla in Tulu, my friend says I have driven a Tesla."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "company_name_unclear"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I use Shiv."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "first_time_working"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "First time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I have taken this sound. I will have to see."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "source_location_unclear"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Madam, is this Idariya or Murugeshwariya or HCL?"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "8722180.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, that's the thing."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "unclear_experience_level"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "First thing to do."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "company_not_specified"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Look."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "work_type_not_specified"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Again."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "That means 10-15 students are saying."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "reason_not_specified"
+        ],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I have a friend named Mullar."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "881206.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It runs just fine."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "neutral",
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 5,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "easy_app_usability",
+          "performance_lag_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I understand everything in Yulu, but sometimes the Yulu app, you know, works very slowly."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no, I am doing it for the first time.",
+          "Yes, I have an idea."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Swiggy."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "part_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is doing part time now."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_cost_savings"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Because it doesn't require a license, and secondly, it can be done with less money, and that's why."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "My friends do it, so how will I know? I'll only know from my friends."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "8863425.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's easy, ma'am."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's going well."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "quick_swap_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It takes one to two minutes, ma'am."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It takes one to two minutes, ma'am."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "According to this, it is correct in this way.",
+          "Correct."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "First one.",
+          "Yes, yes."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "company_not_clearly_stated"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is a war, it is a war."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "part_time",
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Right now, we do part-time, we do it full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Like this, 28 in a day."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_bike_quality",
+          "reason_low_tension"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "In Hindu bikes, I mean, it's normal here, right? There's a lot of traffic, that's why."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "source_many_people_using"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "There were thousands of people here before."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9247957.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, that's right."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I haven't done it, ma'am, but I know how much time it takes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No ma'am, it comes like that. There is no problem."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, first time, ma'am."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Blinkers."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "part_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Part-time customer."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Sometimes it's 30, sometimes it's 36, it happens like that. Sometimes it's 20."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": "minor",
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I had a friend, he said to take it with you."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9261838.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, it's easy, why?"
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's good."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes.",
+          "It takes two to three minutes to charge, like it takes four minutes to change the battery."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It takes two to three minutes to charge, like it takes four minutes to change the battery."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "This application is easy to use, sir."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "We are doing a first-time delivery job and have already paid the money for it."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Right now, we are doing it in Swiggy, meaning we have done it in a blink of an eye, but"
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full toss."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Which is approximately ₹300."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_bike_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I switched because it's easier to ride an Elu bike than a bike. That's why I switched."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I got information about the Elu bike from my friend"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9386524.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [],
+        "suggested_tags": [
+          "cost_is_high"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is cheap, but the cost is high."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes Madam, yes tell me, my name is Abhinav."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "That means it happens suddenly, it happens suddenly."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So far, there hasn't been any problem."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 8,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 9,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 10,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "10, 12, 13, 14, it stays like that."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_referral"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The train guy said to take them, just do part-time."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_visible_bike_on_road"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am seeing that, right? Those vehicles are theirs."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9425032.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes sir, yes sir."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It comes, it comes."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": "2 minutes",
+        "evidence_quotes": [
+          "It takes 2 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "performance_lag_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": "App used to be slow, now improved",
+        "evidence_quotes": [
+          "It used to take a little time to download the trailer, it comes now. It used to take a month."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay, let's see sir."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 8,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "unclear_time_commitment"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Old time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": "15-17 orders/day",
+        "evidence_quotes": [
+          "I don't have much left, 15, 17."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "He is my friend, right? He already came yesterday."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9426009.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes.",
+          "Yes, yes."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It works well."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": "Less than a minute to change battery",
+        "evidence_quotes": [
+          "It seems less than this."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no, no."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay, okay."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 9,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": "6-7 orders per day",
+        "evidence_quotes": [
+          "Brother, six seven."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_bike_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It runs smoothly."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The friend had told me."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9426159.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, let's go, let's go."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, it is going okay for now."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "To change the battery, it takes 10 minutes to change it after the battery is dead."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "it takes 10 minutes to change it after the battery is dead."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no, no."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, there is no problem now, I don't know what will happen later."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, I know, I know."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "In Zomato."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time",
+          "part_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time, sometimes part time. Yes, when it rains, sometimes it's part time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The height is 44, it is 50."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "reason_weather_related"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am coming home, I have a rain pail, that's why I am coming home."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So, all the people who are doing this here, I have all those people."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9429181.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am able to do it."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "At most 5 minutes."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Ha ha.",
+          "So this is it."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is a matter of understanding."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Link it."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "They will speak."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is a little bit like that."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So, the friend told me."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9429352.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes. But the one who was there was a fog."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [
+          "poor_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "So in the evening time, there is a lot of trouble, there is trouble."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes, yes."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "moderate",
+        "meta_tags": [
+          "time_not_identified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It will be running for the first three days, it will change in two weeks."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, that's it."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "feature_request_speed"
+        ],
+        "suggested_tags": [
+          "increase_battery_range"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "you can increase the range of the battery a little in college."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_prior"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am doing a delivery job, I have done it before as well.",
+          "I have done a delivery job before as well, but it was in my village, it's local."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I work at Zipto company."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, right now I am full time because I have a lot of work."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_referral"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Someone said that these people are the truth, these people are the players. So I said okay, okay, I am"
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The information about Yellow Bike is happening from my grandfather. He is working ahead of me here. It has been"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9430082.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It is easy to use. Yes, yes, absolutely easy.",
+          "Absolutely, it's easy."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Okay, good."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Food one minute."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Absolutely, and it's very easy.",
+          "No, no, no, whatever option I have been given is appearing completely."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, no, no, I am coming for the first time."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Blinkit, Blinkit."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, full time work."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": true,
+        "severity": "minor",
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": "Order count not clearly specified; value given is not plausible.",
+        "evidence_quotes": [
+          "I am new to Bangalore city, but still, I have 20-25 thousand."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_referral"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "a friend of mine was driving this car, and he offered me that this car would be the best."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "source_friend"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "a friend of mine was driving this car"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9430708.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, Ma'am."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [
+          "poor_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Right now, the bike isn't running properly, ma'am.",
+          "I give it a little accelerator, and it shuts off."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, ma'am."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It doesn't even take two minutes. It takes one minute in one minute."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, there is no problem, he has messaged."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "negative",
+        "issue_flag": true,
+        "severity": "major",
+        "meta_tags": [],
+        "suggested_tags": [
+          "bike_not_running_well"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I've swiped for two bikes, but I can't find the bike.",
+          "It's not running well."
+        ]
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_prior",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "No, we have done it before as well.",
+          "Yes."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I am doing box check in Mojo Pizza.",
+          "Mojo Pizza."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "not_specified"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "2025."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": null,
+        "issue_flag": null,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "already_worked_with_yulu"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "I told you, ma'am, I have already worked here with Elo.",
+          "It's the second time."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9430845.mp3",
+    "per_question": [
+      {
+        "q_id": 1,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_to_ride",
+          "comfortable_ride"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes, it's easy, easy. It's comfortable."
+        ]
+      },
+      {
+        "q_id": 2,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "good_ride_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "The bike is working, right? It's working well."
+        ]
+      },
+      {
+        "q_id": 3,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_token_booking",
+          "easy_to_change_battery"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It doesn't take time."
+        ]
+      },
+      {
+        "q_id": 4,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "took_X_minutes"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "one minute. One minute. Okay."
+        ]
+      },
+      {
+        "q_id": 5,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "easy_app_usability",
+          "no_issues_with_app"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It's easy, it's easy, it's easy.",
+          "Ah, that's right, that's right."
+        ]
+      },
+      {
+        "q_id": 6,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": []
+      },
+      {
+        "q_id": 7,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "experience_level_new",
+          "first_time_delivery_job",
+          "understand_delivery_work"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, uh, first time, first time.",
+          "Yes, now I know everything clearly."
+        ]
+      },
+      {
+        "q_id": 8,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Blink it please, blink it."
+        ]
+      },
+      {
+        "q_id": 9,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "full_time"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Full time, full time."
+        ]
+      },
+      {
+        "q_id": 10,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "X"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "And 16-17."
+        ]
+      },
+      {
+        "q_id": 11,
+        "sentiment": "positive",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [
+          "reason_bike_quality"
+        ],
+        "suggested_tags": [],
+        "notes_short": null,
+        "evidence_quotes": [
+          "It looks good, that's why I will take it to that man."
+        ]
+      },
+      {
+        "q_id": 12,
+        "sentiment": "neutral",
+        "issue_flag": false,
+        "severity": null,
+        "meta_tags": [],
+        "suggested_tags": [
+          "heard_about_yulu_from_train"
+        ],
+        "notes_short": null,
+        "evidence_quotes": [
+          "Yes, yes, there is a train, right?"
+        ]
+      }
+    ]
+  }
+]

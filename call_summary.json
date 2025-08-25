@@ -1,0 +1,3919 @@
+[ 
+  {
+    "call_id": "8431834.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": "blink",
+      "city": null,
+      "orders_done": 25,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "It's going great, but it gets a little bit of speed and screws in it, you know."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality is good",
+        "evidence_quotes": [
+          "It's going great, but it gets a little bit of speed and screws in it, you know."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "No, no, no problem."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No, no, no problem."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "good battery duration",
+        "evidence_quotes": [
+          "Because its battery duration is long and it is easily provided, the service is also good."
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "easily provided service",
+        "evidence_quotes": [
+          "Because its battery duration is long and it is easily provided, the service is also good."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_speed_limit",
+        "severity": "minor",
+        "detail": "speed is low, wants higher",
+        "evidence_quotes": [
+          "right now it's running at 20-25, its speed, if its average speed is made 25-30."
+        ]
+      },
+      {
+        "code": "feature_request_speed",
+        "severity": "minor",
+        "detail": "requests higher speed",
+        "evidence_quotes": [
+          "Please do two or three things. Increase the speed a little and get this charging system done."
+        ]
+      },
+      {
+        "code": "feature_request_mobile_charging",
+        "severity": "minor",
+        "detail": "requests mobile charging",
+        "evidence_quotes": [
+          "If something like a hawk is imitated and a mobile charging system is installed, it will be even better."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9201276-1.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": 23,
+      "avg_swap_time_min": 5
+    },
+    "positives": [
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "that's right, meaning it's running for 24 hours, meaning at a speed of 24."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with the app",
+        "evidence_quotes": [
+          "No."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "First time delivery job",
+        "evidence_quotes": [
+          "Me, first time."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "Yes, I know everything."
+        ]
+      },
+      {
+        "code": "source_online",
+        "detail": "Heard about Yulu online",
+        "evidence_quotes": [
+          "we were searching on YouTube, we couldn't find the throw."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9295539.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Blink it means.",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "This is correct."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "Swap takes 1-2 minutes",
+        "evidence_quotes": [
+          "It takes one to two minutes, ma'am."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Everything is understandable in the case, there is no requirement for any other function in the Yulu app. No, there"
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "Everything is understandable in the case, there is no requirement for any other function in the Yulu app. No, there"
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "Chose Yulu due to bike availability",
+        "evidence_quotes": [
+          "We didn't have a bike. We didn't have a bike."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard about Yulu from friend",
+        "evidence_quotes": [
+          "My friend gave me information."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9374032.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": "null",
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, ma'am."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, it takes a day or two, right?"
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "Yes ma'am, absolutely."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "Yes ma'am, absolutely."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "bike is smoother",
+        "evidence_quotes": [
+          "there are no other options available, and this is a bit smoother, a smaller bike that we can take out"
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "no other options available",
+        "evidence_quotes": [
+          "there are no other options available, and this is a bit smoother, a smaller bike that we can take out"
+        ]
+      },
+      {
+        "code": "source_visible_bike_on_road",
+        "detail": "saw bikes on road",
+        "evidence_quotes": [
+          "from here, like we used to come and go, earlier we used to come to Delhi.",
+          "the place that was of Leelu, so from there, all the spikes were installed."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "poor_ride_quality",
+        "severity": "minor",
+        "detail": "bike runs a little slow",
+        "evidence_quotes": [
+          "Ma'am, the bike's quality is okay, but it runs a little slow."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "major",
+        "detail": "swap time unclear, takes a day or two",
+        "evidence_quotes": [
+          "Yes, it takes a day or two, right?"
+        ]
+      },
+      {
+        "code": "feature_request_speed",
+        "severity": "minor",
+        "detail": "wants higher speed",
+        "evidence_quotes": [
+          "just look at its speed a little bit, and there is a battery station."
+        ]
+      },
+      {
+        "code": "feature_request_speed",
+        "severity": "minor",
+        "detail": "expand charging station",
+        "evidence_quotes": [
+          "you will have to expand your charging station."
+        ]
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "orders per day not specified",
+        "evidence_quotes": [
+          "it happens in 25 to 60 years"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9428575.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": "Zomato",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 43
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Rider finds it easy to ride",
+        "evidence_quotes": [
+          "Yes, ma'am, it's easy. But the problem is very big."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_battery_range",
+        "severity": "major",
+        "detail": "Battery backup is very bad",
+        "evidence_quotes": [
+          "its battery backup is also very bad, the battery backup is also very bad."
+        ]
+      },
+      {
+        "code": "hard_to_change_battery",
+        "severity": "major",
+        "detail": "Difficult to change battery at service center",
+        "evidence_quotes": [
+          "I went to the service center and spoke to the battery guy."
+        ]
+      },
+      {
+        "code": "queue_at_station",
+        "severity": "major",
+        "detail": "Long queue at battery station",
+        "evidence_quotes": [
+          "there were quite a few people, about 20-25 people. Even now, they are worried at the service center."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "severity": "major",
+        "detail": "Battery swap took 40-45 minutes",
+        "evidence_quotes": [
+          "it's been about 40-45 minutes, and our battery hasn't been saved."
+        ]
+      },
+      {
+        "code": "time_not_predictable",
+        "severity": "major",
+        "detail": "Swap time is unpredictable",
+        "evidence_quotes": [
+          "it's been about 40-45 minutes, and our battery hasn't been saved."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9428926.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "We are doing it now."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality is good",
+        "evidence_quotes": [
+          "The quality is also good, ma'am, it's just that if it had a little more speed, it would have been"
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, Ma'am."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "Yes, I."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "feature_request_speed",
+        "severity": "minor",
+        "detail": "wants more speed",
+        "evidence_quotes": [
+          "it's just that if it had a little more speed, it would have been better."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "swap time not specified",
+        "evidence_quotes": []
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "orders per day not specified",
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9431188.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": "delhi",
+      "orders_done": null,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "It's easy to do."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "Yes Madam, it is being done Madam."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "Swap takes 2-3 minutes",
+        "evidence_quotes": [
+          "Brother, it won't take more than two or three minutes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no ma'am, nothing, sir, it's done."
+        ]
+      },
+      {
+        "code": "experience_level_prior",
+        "detail": "Has prior experience",
+        "evidence_quotes": [
+          "I had done it a year ago as well. It's been almost two years for me."
+        ]
+      },
+      {
+        "code": "full_time",
+        "detail": "Works full time",
+        "evidence_quotes": [
+          "Full time."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "Order count not specified",
+        "evidence_quotes": [
+          "25 to 30 minutes."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431203.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": "Zomato",
+      "city": null,
+      "orders_done": 9,
+      "avg_swap_time_min": 8
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Knows how to book token",
+        "evidence_quotes": [
+          "Yes, I do."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes, it is coming."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No problems with app",
+        "evidence_quotes": [
+          "No, now there is no problem, and everything is going well."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "Referred by someone",
+        "evidence_quotes": [
+          "He knew it would be good. That's why he brought me this yellow bike."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "Bike is good",
+        "evidence_quotes": [
+          "He knew it would be good. That's why he brought me this yellow bike."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from brother/friend",
+        "evidence_quotes": [
+          "I had a brother who used a yellow bike."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9431205.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Zomato",
+      "city": null,
+      "orders_done": 23,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes, yes."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "That it works well, it's correct."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "Swap takes 1-2 minutes",
+        "evidence_quotes": [
+          "It takes 1 to 2 minutes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No ma'am."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "First time delivery job",
+        "evidence_quotes": [
+          "No sir, I am doing it for the first time."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "Yes. Yes, yes."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "Chose for bike quality",
+        "evidence_quotes": [
+          "It's a great bike, it's good."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9431225.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": "Swiggy",
+      "city": null,
+      "orders_done": 25,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes, okay."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is fine",
+        "evidence_quotes": [
+          "So that's fine, but it would be great if the speed increased a little, right?"
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "No, no, it's okay."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no, it's okay."
+        ]
+      },
+      {
+        "code": "reason_low_tension",
+        "detail": "Hassle-free, no load",
+        "evidence_quotes": [
+          "Because it is hassle-free.",
+          "There is no load in it."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from friends at work",
+        "evidence_quotes": [
+          "Where I am working, many people were working on this bike, so I found out from them and brought it."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "station_closed_lunch",
+        "severity": "moderate",
+        "detail": "Charging station sometimes closed, affects incentives",
+        "evidence_quotes": [
+          "charging station of yours, it sometimes remains off, because of that one has to face a lot of trouble",
+          "It was closed yesterday. Yes, it was closed yesterday. Because of that, ma'am, if our incentive gets damaged during work"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431305.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": "link",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 5
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality fine",
+        "evidence_quotes": [
+          "It works fine, but ma'am, the speed in it..."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes, I am here."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, ma'am."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "Good charge backup",
+        "evidence_quotes": [
+          "Its charge backup is good, basically."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from another boy",
+        "evidence_quotes": [
+          "I found out from another boy, I found out from him."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_speed_limit",
+        "severity": "moderate",
+        "detail": "Bike doesn't pick up much speed",
+        "evidence_quotes": [
+          "The bike doesn't pick up much speed."
+        ]
+      },
+      {
+        "code": "poor_ride_quality",
+        "severity": "moderate",
+        "detail": "Speed issue affects ride quality",
+        "evidence_quotes": [
+          "It works fine, but ma'am, the speed in it...",
+          "The bike doesn't pick up much speed."
+        ]
+      },
+      {
+        "code": "feature_request_speed",
+        "severity": "moderate",
+        "detail": "Wants higher speed",
+        "evidence_quotes": [
+          "The bike doesn't pick up much speed."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9431377.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 16,
+      "avg_swap_time_min": 10
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Booking token is easy",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Battery change is easy",
+        "evidence_quotes": [
+          "To change the battery."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9432170.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Swiggy",
+      "city": null,
+      "orders_done": 15,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to drive",
+        "evidence_quotes": [
+          "it's easy to drive, there is no problem in riding it."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "no problem with ride quality",
+        "evidence_quotes": [
+          "There is no problem right now."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "battery change is quick",
+        "evidence_quotes": [
+          "It doesn't take much time to change the battery."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is clear",
+        "evidence_quotes": [
+          "Everything is clear in the Yulu application."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no app issues",
+        "evidence_quotes": [
+          "Everything is clear in the Yulu application."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "first time delivery job",
+        "evidence_quotes": [
+          "No, I am doing it for the first time."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "understands delivery work",
+        "evidence_quotes": [
+          "Yes, yes, YouTube."
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "other bike not available",
+        "evidence_quotes": [
+          "The other bike is not there right now."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "mechanical_breakdown",
+        "severity": "minor",
+        "detail": "brakes need tightening soon",
+        "evidence_quotes": [
+          "I will have to go get the brakes tightened in a day or two."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9432578.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": "Zomato",
+      "city": null,
+      "orders_done": 10,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "So that."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "token booking is easy",
+        "evidence_quotes": [
+          "Okay, I won't take much time, just one or two minutes."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "battery change is easy",
+        "evidence_quotes": [
+          "Okay, I won't take much time, just one or two minutes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "Yes, yes, this is also fine, there is no problem."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "Yes, yes, this is also fine, there is no problem."
+        ]
+      },
+      {
+        "code": "reason_nearby_station",
+        "detail": "station was nearby",
+        "evidence_quotes": [
+          "It was near me, and I found out it was okay, so I took the photo."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "5831916.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": "Sewing",
+      "city": null,
+      "orders_done": 4,
+      "avg_swap_time_min": 10
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "If you book a rogan, it means you have to change the battery."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Battery change is easy",
+        "evidence_quotes": [
+          "Yes, I will do it."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes, I use that."
+        ]
+      },
+      {
+        "code": "reason_low_tension",
+        "detail": "Chose for low tension",
+        "evidence_quotes": [
+          "He doesn't have any tension, right? If he recharges it, it will work, otherwise it won't."
+        ]
+      },
+      {
+        "code": "source_online",
+        "detail": "Heard about Yulu online",
+        "evidence_quotes": [
+          "Online calls, excellent."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "station_closed_lunch",
+        "severity": "moderate",
+        "detail": "Shopkeeper not there during lunch",
+        "evidence_quotes": [
+          "Oh, sometimes it happens that even the shopkeeper is not there."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "8445509.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": null,
+      "company_name": "Shiv",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 7
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Using a bike here is good.",
+        "evidence_quotes": [
+          "Using a bike here is good."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy.",
+        "evidence_quotes": [
+          "Yes, yes Madam."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use.",
+        "evidence_quotes": [
+          "Yes Madam. I mean, it's not easy. It's easy, Madam."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with the app.",
+        "evidence_quotes": [
+          "No, no Madam."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "8722180.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": null,
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, that's the thing."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "easy to use app",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "I have a friend named Mullar."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "swap time not specified",
+        "evidence_quotes": []
+      },
+      {
+        "code": "unclear_experience_level",
+        "severity": "minor",
+        "detail": "experience level not clear",
+        "evidence_quotes": [
+          "First thing to do."
+        ]
+      },
+      {
+        "code": "company_not_specified",
+        "severity": "minor",
+        "detail": "company not specified",
+        "evidence_quotes": [
+          "Look."
+        ]
+      },
+      {
+        "code": "work_type_not_specified",
+        "severity": "minor",
+        "detail": "job type not specified",
+        "evidence_quotes": [
+          "Again."
+        ]
+      },
+      {
+        "code": "reason_not_specified",
+        "severity": "minor",
+        "detail": "reason for choosing Yulu not specified",
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "881206.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": "Swiggy",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Good ride quality",
+        "evidence_quotes": [
+          "It runs just fine."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "I understand everything in Yulu, but sometimes the Yulu app, you know, works very slowly."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "First time delivery job",
+        "evidence_quotes": [
+          "No, no, I am doing it for the first time."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "Yes, I have an idea."
+        ]
+      },
+      {
+        "code": "reason_cost_savings",
+        "detail": "Cost savings, no license needed",
+        "evidence_quotes": [
+          "Because it doesn't require a license, and secondly, it can be done with less money, and that's why."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from friends",
+        "evidence_quotes": [
+          "My friends do it, so how will I know? I'll only know from my friends."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "performance_lag_with_app",
+        "severity": "minor",
+        "detail": "App works very slowly sometimes",
+        "evidence_quotes": [
+          "I understand everything in Yulu, but sometimes the Yulu app, you know, works very slowly."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "8863425.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 28,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "It's easy, ma'am."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "It's going well."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "It takes one to two minutes, ma'am."
+        ]
+      },
+      {
+        "code": "quick_swap_time",
+        "detail": "Battery swap is quick",
+        "evidence_quotes": [
+          "It takes one to two minutes, ma'am."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "First time delivery job",
+        "evidence_quotes": [
+          "First one."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "Yes, yes."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "Bike quality is good",
+        "evidence_quotes": [
+          "In Hindu bikes, I mean, it's normal here, right? There's a lot of traffic, that's why."
+        ]
+      },
+      {
+        "code": "reason_low_tension",
+        "detail": "Low tension using Yulu",
+        "evidence_quotes": [
+          "In Hindu bikes, I mean, it's normal here, right? There's a lot of traffic, that's why."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "X",
+        "severity": "minor",
+        "detail": "Company not clearly stated",
+        "evidence_quotes": [
+          "It is a war, it is a war."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9247957.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": "Blinkers.",
+      "city": null,
+      "orders_done": 29,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Knows how to book token",
+        "evidence_quotes": [
+          "Yes, that's right."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "No ma'am, it comes like that. There is no problem."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No problems with app",
+        "evidence_quotes": [
+          "No ma'am, it comes like that. There is no problem."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard about Yulu from friend",
+        "evidence_quotes": [
+          "I had a friend, he said to take it with you."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "Has not swapped battery, time unknown",
+        "evidence_quotes": [
+          "I haven't done it, ma'am, but I know how much time it takes."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9261838.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Swiggy",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 4
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, it's easy, why?"
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality is good",
+        "evidence_quotes": [
+          "It's good."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "easy to change battery",
+        "evidence_quotes": [
+          "It takes two to three minutes to charge, like it takes four minutes to change the battery."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "This application is easy to use, sir."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "bike is easier to ride",
+        "evidence_quotes": [
+          "I switched because it's easier to ride an Elu bike than a bike. That's why I switched."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "I got information about the Elu bike from my friend"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "orders per day not specified",
+        "evidence_quotes": [
+          "Which is approximately ₹300."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9386524.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": null,
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 12,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "Yes Madam, yes tell me, my name is Abhinav."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "So far, there hasn't been any problem."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with the app",
+        "evidence_quotes": [
+          "So far, there hasn't been any problem."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "Referred by train guy",
+        "evidence_quotes": [
+          "The train guy said to take them, just do part-time."
+        ]
+      },
+      {
+        "code": "source_visible_bike_on_road",
+        "detail": "Saw vehicles on road",
+        "evidence_quotes": [
+          "I am seeing that, right? Those vehicles are theirs."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "cost_is_high",
+        "severity": "minor",
+        "detail": "Cost is high",
+        "evidence_quotes": [
+          "It is cheap, but the cost is high."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9425032.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": null,
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": 16,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes sir, yes sir."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Easy token booking",
+        "evidence_quotes": [
+          "It comes, it comes."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "performance_lag_with_app",
+        "severity": "minor",
+        "detail": "App used to be slow, now improved",
+        "evidence_quotes": [
+          "It used to take a little time to download the trailer, it comes now. It used to take a month."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9426009.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": 7,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes.",
+          "Yes, yes."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Good ride quality",
+        "evidence_quotes": [
+          "It works well."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Easy to book token",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Easy to change battery",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no, no."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "Chose for bike quality",
+        "evidence_quotes": [
+          "It runs smoothly."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from friend",
+        "evidence_quotes": [
+          "The friend had told me."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9426159.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": null,
+      "job_type": "job_type_full_time",
+      "company_name": "Zomato",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 10
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes, let's go, let's go."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is okay",
+        "evidence_quotes": [
+          "Yes, it is going okay for now."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Easy to change battery",
+        "evidence_quotes": [
+          "To change the battery, it takes 10 minutes to change it after the battery is dead."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no, no."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "Yes, I know, I know."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from friends",
+        "evidence_quotes": [
+          "So, all the people who are doing this here, I have all those people."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9429181.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": null,
+      "job_type": null,
+      "company_name": "Link it.",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 5
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Able to ride easily",
+        "evidence_quotes": [
+          "I am able to do it."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "Swap takes at most 5 minutes",
+        "evidence_quotes": [
+          "At most 5 minutes."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "It is a matter of understanding."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard about Yulu from friend",
+        "evidence_quotes": [
+          "So, the friend told me."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9429352.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": "Zipto",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, yes. But the one who was there was a fog."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, yes, yes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "easy to use app",
+        "evidence_quotes": [
+          "Yes, that's it."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "chose Yulu due to referral",
+        "evidence_quotes": [
+          "Someone said that these people are the truth, these people are the players. So I said okay, okay, I am"
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard about Yulu from friend/family",
+        "evidence_quotes": [
+          "The information about Yellow Bike is happening from my grandfather. He is working ahead of me here. It has been"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "poor_ride_quality",
+        "severity": "moderate",
+        "detail": "trouble with ride quality in evening",
+        "evidence_quotes": [
+          "So in the evening time, there is a lot of trouble, there is trouble."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "moderate",
+        "detail": "swap time not clearly identified",
+        "evidence_quotes": [
+          "It will be running for the first three days, it will change in two weeks."
+        ]
+      },
+      {
+        "code": "feature_request_speed",
+        "severity": "minor",
+        "detail": "requests increased battery range",
+        "evidence_quotes": [
+          "you can increase the range of the battery a little in college."
+        ]
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "orders per day not specified",
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9430082.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Blinkit",
+      "city": "null",
+      "orders_done": null,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to use",
+        "evidence_quotes": [
+          "It is easy to use. Yes, yes, absolutely easy.",
+          "Absolutely, it's easy."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality good",
+        "evidence_quotes": [
+          "Okay, good."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is very easy",
+        "evidence_quotes": [
+          "Absolutely, and it's very easy."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No, no, no, whatever option I have been given is appearing completely."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "swap took 1 minute",
+        "evidence_quotes": [
+          "Food one minute."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "friend recommended Yulu",
+        "evidence_quotes": [
+          "a friend of mine was driving this car, and he offered me that this car would be the best."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "a friend of mine was driving this car"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "order count not clearly specified",
+        "evidence_quotes": [
+          "I am new to Bangalore city, but still, I have 20-25 thousand."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9430708.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": null,
+      "company_name": "Mojo Pizza",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, Ma'am."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, ma'am."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "easy to change battery",
+        "evidence_quotes": [
+          "Yes, ma'am."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "No, there is no problem, he has messaged."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No, there is no problem, he has messaged."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "poor_ride_quality",
+        "severity": "major",
+        "detail": "bike isn't running properly, shuts off",
+        "evidence_quotes": [
+          "Right now, the bike isn't running properly, ma'am.",
+          "I give it a little accelerator, and it shuts off."
+        ]
+      },
+      {
+        "code": "bike_not_running_well",
+        "severity": "major",
+        "detail": "bike not running well, can't find bike",
+        "evidence_quotes": [
+          "I've swiped for two bikes, but I can't find the bike.",
+          "It's not running well."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9430845.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Blink it",
+      "city": null,
+      "orders_done": 17,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy and comfortable to ride",
+        "evidence_quotes": [
+          "Yes, yes, it's easy, easy. It's comfortable."
+        ]
+      },
+      {
+        "code": "comfortable_ride",
+        "detail": "comfortable ride",
+        "evidence_quotes": [
+          "Yes, yes, it's easy, easy. It's comfortable."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "bike is working well",
+        "evidence_quotes": [
+          "The bike is working, right? It's working well."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy token booking",
+        "evidence_quotes": [
+          "It doesn't take time."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "easy to change battery",
+        "evidence_quotes": [
+          "It doesn't take time."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "swap takes 1 minute",
+        "evidence_quotes": [
+          "one minute. One minute. Okay."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "It's easy, it's easy, it's easy."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "Ah, that's right, that's right."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "first time delivery job",
+        "evidence_quotes": [
+          "Yes, uh, first time, first time."
+        ]
+      },
+      {
+        "code": "first_time_delivery_job",
+        "detail": "first time delivery job",
+        "evidence_quotes": [
+          "Yes, uh, first time, first time."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "understands delivery work",
+        "evidence_quotes": [
+          "Yes, now I know everything clearly."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "chose for good bike quality",
+        "evidence_quotes": [
+          "It looks good, that's why I will take it to that man."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "4672087.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes Madam, it is there."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality is good",
+        "evidence_quotes": [
+          "It's good, and if it were a little faster, it would have been even better."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "No Madam, it's easy, I understand."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No Madam, it's easy, I understand."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "A friend of mine told me."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_speed",
+        "severity": "minor",
+        "detail": "bike could be faster",
+        "evidence_quotes": [
+          "It's good, and if it were a little faster, it would have been even better."
+        ]
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "orders per day not specified",
+        "evidence_quotes": [
+          "Madam, do you need all of this too?",
+          "Do you need all this information?"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9097591.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": null,
+      "job_type": null,
+      "company_name": "Gift.",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [],
+    "problems": []
+  },
+  {
+    "call_id": "9324947.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 3
+    },
+    "positives": [
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "Well, this is good. But even though if some speed added, it will be more greater than two years."
+        ]
+      },
+      {
+        "code": "low_speed",
+        "detail": "Speed is low",
+        "evidence_quotes": [
+          "Well, this is good. But even though if some speed added, it will be more greater than two years."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Knows how to book token",
+        "evidence_quotes": [
+          "Yes, I know."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "Nothing else, I think so there was good enough."
+        ]
+      },
+      {
+        "code": "reason_cost_savings",
+        "detail": "Chose Yulu for cost/availability",
+        "evidence_quotes": [
+          "I don't I have a bike but it was far often from my this place right now. So you know"
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "Chose Yulu for availability",
+        "evidence_quotes": [
+          "I don't I have a bike but it was far often from my this place right now. So you know"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "user center not responding",
+        "severity": "moderate",
+        "detail": "User center not responding properly",
+        "evidence_quotes": [
+          "The user center is not responding properly."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9385844.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Zomato",
+      "city": null,
+      "orders_done": 23,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "it is easy, ma'am, there is no problem with charging"
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "good ride quality",
+        "evidence_quotes": [
+          "Good Telugu."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy token booking",
+        "evidence_quotes": [
+          "It doesn't even take 1 minute."
+        ]
+      },
+      {
+        "code": "quick_swap_time",
+        "detail": "swap takes less than 1 minute",
+        "evidence_quotes": [
+          "It doesn't even take 1 minute."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "easy to use app",
+        "evidence_quotes": [
+          "Is everyone understanding in the YouTube app? Yes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "Is everyone understanding in the YouTube app? Yes."
+        ]
+      },
+      {
+        "code": "reason_swap_network",
+        "detail": "swap network is easy",
+        "evidence_quotes": [
+          "it is easy, ma'am, there is no problem with charging"
+        ]
+      },
+      {
+        "code": "reason_low_tension",
+        "detail": "no problem with charging",
+        "evidence_quotes": [
+          "it is easy, ma'am, there is no problem with charging"
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "friends recommended",
+        "evidence_quotes": [
+          "my friends use it, so they tell me to get an HD bike."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9396112.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": "Suzhi Instrument.",
+      "city": null,
+      "orders_done": 12,
+      "avg_swap_time_min": 3
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is simple",
+        "evidence_quotes": [
+          "Check some simple details, you will have to fill in the details, please fill in those details."
+        ]
+      },
+      {
+        "code": "express_bike_interest",
+        "detail": "Comfortable bike",
+        "evidence_quotes": [
+          "Lulu Bike is good, I have comfort too."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_speed_limit",
+        "severity": "major",
+        "detail": "Very difficult due to low speed",
+        "evidence_quotes": [
+          "Even if it's a center, it's very difficult.",
+          "I have a lot of difficulty, right?"
+        ]
+      },
+      {
+        "code": "poor_ride_quality",
+        "severity": "major",
+        "detail": "Bike runs very slowly",
+        "evidence_quotes": [
+          "Lulu bike runs very slowly."
+        ]
+      },
+      {
+        "code": "low_speed",
+        "severity": "major",
+        "detail": "Speed is only 20-25 km/h",
+        "evidence_quotes": [
+          "it's not even 25 right now, it's going at 20 speed."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9402530.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 30,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality okay",
+        "evidence_quotes": [
+          "Okay, okay."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "swap time 1-2 minutes",
+        "evidence_quotes": [
+          "one minute, two minutes. yes ma'am, two minutes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app easy to use",
+        "evidence_quotes": [
+          "Uh, and I will understand everything."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no app issues",
+        "evidence_quotes": [
+          "Oh no madam, oh."
+        ]
+      },
+      {
+        "code": "express_bike_interest",
+        "detail": "gives five-star rating",
+        "evidence_quotes": [
+          "Good, uh, I give you a five-star rating."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "first delivery job",
+        "evidence_quotes": [
+          "First delivery job in Sharjah Mart.",
+          "That first delivery is there."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "understands delivery work",
+        "evidence_quotes": [
+          "Yes madam, I will come."
+        ]
+      },
+      {
+        "code": "part_time",
+        "detail": "works part-time",
+        "evidence_quotes": [
+          "Part-time, part-time."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "comfortable and rental bike",
+        "evidence_quotes": [
+          "It's a comfortable and rental bike."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "suggested by friend",
+        "evidence_quotes": [
+          "Ah, I suggest my friend."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9407812.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 15,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Absolutely."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No, no, thank you."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "friend recommended",
+        "evidence_quotes": [
+          "Actually, my friend recommended that yes, that loot challenge is going on, take it."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "Actually, my friend recommended that yes, that loot challenge is going on, take it."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_speed",
+        "severity": "moderate",
+        "detail": "speed is very low",
+        "evidence_quotes": [
+          "The speed is very low."
+        ]
+      },
+      {
+        "code": "poor_ride_quality",
+        "severity": "moderate",
+        "detail": "speed drops on high road",
+        "evidence_quotes": [
+          "Suppose someone is going on a slightly high road, then the speed becomes very low."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9412811.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 23,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Easy to change battery",
+        "evidence_quotes": [
+          "We don't do the charging, we change it, I mean directly change it. We don't charge it, we directly change"
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "It's easy to use the application. It's available for chatting, Madam, so then we go and change the battery directly,"
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "Chose Yulu due to friends",
+        "evidence_quotes": [
+          "These friends were working, right?"
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard about Yulu from friends",
+        "evidence_quotes": [
+          "Through friend logs."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "low_speed",
+        "severity": "minor",
+        "detail": "Wants higher speed",
+        "evidence_quotes": [
+          "Increase the speed a little, increase the speed a little. Give it a speed of 40, 40."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "Swap time not specified",
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9417730.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Blanket",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Using Yellow Bike is easy",
+        "evidence_quotes": [
+          "Using Yellow Bike is easy."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is the best",
+        "evidence_quotes": [
+          "The quality of the ride is the best, ma'am."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "Yes, yes."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Battery change is easy",
+        "evidence_quotes": [
+          "Yes, yes, Madam."
+        ]
+      },
+      {
+        "code": "express_bike_interest",
+        "detail": "Felt good about the bike",
+        "evidence_quotes": [
+          "Felt good."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from friends",
+        "evidence_quotes": [
+          "Friends, friends."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "time_not_reliable",
+        "severity": "major",
+        "detail": "Swap time can take 1-2 hours if crowded",
+        "evidence_quotes": [
+          "If there is a lot of crowd, then it takes one or two hours to finish, that's all."
+        ]
+      },
+      {
+        "code": "time_not_predictable",
+        "severity": "major",
+        "detail": "Swap time not predictable due to crowd",
+        "evidence_quotes": [
+          "If there is a lot of crowd, then it takes one or two hours to finish, that's all."
+        ]
+      },
+      {
+        "code": "hard_to_use_app",
+        "severity": "moderate",
+        "detail": "Not understanding the app",
+        "evidence_quotes": [
+          "No ma'am, I am not understanding."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9419520.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": "Karumaram",
+      "city": null,
+      "orders_done": 5,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, it's going on, Madam."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality is fine",
+        "evidence_quotes": [
+          "Yes, that's fine, Madam."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "can change battery easily",
+        "evidence_quotes": [
+          "Battery, yes, I have changed it."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "swap takes about 1 minute",
+        "evidence_quotes": [
+          "It will come in a minute."
+        ]
+      },
+      {
+        "code": "experience_level_new",
+        "detail": "first time delivery job",
+        "evidence_quotes": [
+          "Yes, yes, yes, yes."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "invite them to your friend's place, that's why we are giving it to you for free."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9421063.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride now",
+        "evidence_quotes": [
+          "Yes, now I am."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "It comes, it comes, it comes completely."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "It's easy to use the application, sir."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "So, I know everything completely."
+        ]
+      },
+      {
+        "code": "source_online",
+        "detail": "Heard about Yulu from Google",
+        "evidence_quotes": [
+          "Yes, I found out from Google."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "poor_ride_quality",
+        "severity": "moderate",
+        "detail": "Ride quality is bad",
+        "evidence_quotes": [
+          "It's not like that, it's bad."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "Swap time not specified",
+        "evidence_quotes": []
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "Orders per day not specified",
+        "evidence_quotes": [
+          "I am having breakfast. I don't have any problem, but I don't know."
+        ]
+      },
+      {
+        "code": "company_not_clearly_stated",
+        "severity": "minor",
+        "detail": "Company not clearly stated",
+        "evidence_quotes": [
+          "Sometimes in drinking, sometimes in stages."
+        ]
+      },
+      {
+        "code": "reason_not_stated",
+        "severity": "minor",
+        "detail": "Reason for choosing Yulu not stated",
+        "evidence_quotes": []
+      }
+    ]
+  },
+  {
+    "call_id": "9422530.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": 5,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "It is done."
+        ]
+      },
+      {
+        "code": "express_bike_interest",
+        "detail": "likes the bike",
+        "evidence_quotes": [
+          "It is good."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9422533.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": "null",
+      "orders_done": null,
+      "avg_swap_time_min": 10
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "No problem riding",
+        "evidence_quotes": [
+          "Ah, okay, okay, no problem."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "Yes, it's good, ma'am."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Knows how to book token",
+        "evidence_quotes": [
+          "Yes, yes, yes, yes, yes, I have changed the battery, I mean, I know how to."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Knows how to change battery",
+        "evidence_quotes": [
+          "Yes, yes, yes, yes, yes, I have changed the battery, I mean, I know how to."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "It's easy to use the application, sir. Ha ha, yes ma'am."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No ma'am."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9424611.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 23,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Yes, okay."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes, yes."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no, that's the correct option, I understand that."
+        ]
+      },
+      {
+        "code": "first_time_delivery_job",
+        "detail": "First time delivery job",
+        "evidence_quotes": [
+          "First time calling."
+        ]
+      },
+      {
+        "code": "understand_delivery_work",
+        "detail": "Understands delivery work",
+        "evidence_quotes": [
+          "Yes, yes, I know all that."
+        ]
+      },
+      {
+        "code": "full_time",
+        "detail": "Works full time",
+        "evidence_quotes": [
+          "No, it is a full-time club."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "Chose Yulu via referral",
+        "evidence_quotes": [
+          "Everyone is doing this, right? They gave it, saying it's good."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard about Yulu from friends",
+        "evidence_quotes": [
+          "Everyone is doing this, right? They gave it, saying it's good."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9431746.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 20,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "bike is easy to ride",
+        "evidence_quotes": [
+          "Yes, it is like that, it is a little difficult to come there."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "token booking is fast",
+        "evidence_quotes": [
+          "It's happening very fast, very fast, there are no issues."
+        ]
+      },
+      {
+        "code": "quick_swap_time",
+        "detail": "battery changes within 1 minute",
+        "evidence_quotes": [
+          "within 1 minute the battery changes"
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No, no, no, thank you."
+        ]
+      },
+      {
+        "code": "reason_bike_quality",
+        "detail": "bike facility is easy",
+        "evidence_quotes": [
+          "So it's a little easier, it's a little easier in Hindi, the facility is easy in English."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "friends are using it",
+        "evidence_quotes": [
+          "Many of my friends are using it here, I saw it from them."
+        ]
+      },
+      {
+        "code": "source_online",
+        "detail": "saw video online",
+        "evidence_quotes": [
+          "I saw that in your video, you showed Zomato."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "indicator_missing",
+        "severity": "minor",
+        "detail": "indicator missing, should be compulsory",
+        "evidence_quotes": [
+          "It would be good if you give the indicator hard. The indicator should be compulsory.",
+          "There's no indicator either, so there's a bit of a problem, otherwise everything is fine.",
+          "Add a compulsory indicator. If not an indicator, then add a mirror, it would be even better."
+        ]
+      },
+      {
+        "code": "mirror_missing",
+        "severity": "minor",
+        "detail": "mirror missing, should be added",
+        "evidence_quotes": [
+          "Add a compulsory indicator. If not an indicator, then add a mirror, it would be even better."
+        ]
+      },
+      {
+        "code": "low_speed",
+        "severity": "minor",
+        "detail": "bike runs slowly in crush",
+        "evidence_quotes": [
+          "So, in the crush, it's running slowly from the top."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "8806556-1.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": null,
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [],
+    "problems": [
+      {
+        "code": "hard_to_change_battery",
+        "severity": "major",
+        "detail": "Unable to change battery",
+        "evidence_quotes": [
+          "I have installed the Evo app. It's showing a 'sold out' option."
+        ]
+      },
+      {
+        "code": "battery_not_available_at_station",
+        "severity": "major",
+        "detail": "Battery not available at station",
+        "evidence_quotes": [
+          "I am unable to purchase from it. I am unable to rent it."
+        ]
+      },
+      {
+        "code": "time_not_reliable",
+        "severity": "major",
+        "detail": "Swap time not reliable",
+        "evidence_quotes": [
+          "I kept checking for 500 minutes."
+        ]
+      },
+      {
+        "code": "time_not_predictable",
+        "severity": "major",
+        "detail": "Swap time not predictable",
+        "evidence_quotes": [
+          "I kept checking for 500 minutes."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9191435-1.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": null,
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [],
+    "problems": []
+  },
+  {
+    "call_id": "9191435-2.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 25,
+      "avg_swap_time_min": 2
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Bike is easy to ride",
+        "evidence_quotes": [
+          "Using a Euro bike is easy.",
+          "Yes, sir."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "It's good, but it's closing down today because of the rain a little bit."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "Yes, I know everything."
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Battery change is easy",
+        "evidence_quotes": [
+          "Yes, I know everything."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Using the U-app application is easy."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, brother, no."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard from friends",
+        "evidence_quotes": [
+          "Two people are already doing it in the morning. Two people have been doing it for a year."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "other_concern",
+        "severity": "minor",
+        "detail": "Tires get jammed in rain",
+        "evidence_quotes": [
+          "the tires seem to be getting a little wet. The tires are completely jammed."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9313340.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "my dream case",
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "riding is easy",
+        "evidence_quotes": [
+          "Yes, ma'am.",
+          "riding a Yulu bike is easy for you. Yes, ma'am."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "ride quality is okay",
+        "evidence_quotes": [
+          "Yes, it's okay, ma'am."
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "stations available everywhere",
+        "evidence_quotes": [
+          "Because I liked it, these two people are sitting in every place."
+        ]
+      },
+      {
+        "code": "source_visible_bike_on_road",
+        "detail": "saw Yulu center near restaurant",
+        "evidence_quotes": [
+          "Actually, the restaurant where I used to work, right across from it was a yellow center, very very west east."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "other_concern",
+        "severity": "minor",
+        "detail": "problem during the break",
+        "evidence_quotes": [
+          "It's okay now, but there is a problem during the break."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "swap time not specified",
+        "evidence_quotes": [
+          "We will change the battery, we will change the battery."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9351461.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 7,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, it's easy, but the recharge is too high, I mean, no, it's okay."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book battery",
+        "evidence_quotes": [
+          "To book the battery.",
+          "Yes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "Using the Yudu app application is easy.",
+          "Yes, sir."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "recharges are very expensive",
+        "severity": "major",
+        "detail": "recharges are very expensive",
+        "evidence_quotes": [
+          "recharges are very expensive. The job I do for free, I'm not even getting that much."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9416419.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 18,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Changed battery twice",
+        "evidence_quotes": [
+          "I have changed it, Madam, I have changed it twice."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No problem with app",
+        "evidence_quotes": [
+          "Right now, there is no problem, Madam, there is no issue right now."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Friends recommended Yulu",
+        "evidence_quotes": [
+          "Two people were driving a bike, and they told me to book the bike."
+        ]
+      },
+      {
+        "code": "source_visible_bike_on_road",
+        "detail": "Saw others using Yulu",
+        "evidence_quotes": [
+          "I saw them driving the bike and booked their bike, Madam."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "did_not_understand_question",
+        "severity": "minor",
+        "detail": "Did not understand question about riding",
+        "evidence_quotes": [
+          "I don't understand what you are saying."
+        ]
+      },
+      {
+        "code": "time_not_identified",
+        "severity": "minor",
+        "detail": "Swap time not specified",
+        "evidence_quotes": [
+          "I bring a day and a month in one go."
+        ]
+      },
+      {
+        "code": "company_not_specified",
+        "severity": "minor",
+        "detail": "Company not clearly named",
+        "evidence_quotes": [
+          "I am in the building queen."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9417429.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 3
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Is it easy for you? Easy."
+        ]
+      },
+      {
+        "code": "good_ride_quality",
+        "detail": "Ride quality is good",
+        "evidence_quotes": [
+          "The quality of the rice is good.",
+          "It is going on well."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "What does it take to go in two to four minutes? It takes two to four minutes."
+        ]
+      },
+      {
+        "code": "quick_swap_time",
+        "detail": "Battery swap is quick",
+        "evidence_quotes": [
+          "It takes two to four minutes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "No, no, there is no problem. We are living comfortably, living together."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with app",
+        "evidence_quotes": [
+          "No, no, there is no problem. We are living comfortably, living together."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "Heard about Yulu from friends",
+        "evidence_quotes": [
+          "Those who know me are advising, right, these people?"
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9420978.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": 18
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "Yes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "I am understanding."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "other_concern",
+        "severity": "minor",
+        "detail": "Ride is basic",
+        "evidence_quotes": [
+          "it's working, it's basic."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "severity": "minor",
+        "detail": "Swap takes 15-20 minutes",
+        "evidence_quotes": [
+          "otherwise 15-20 minutes."
+        ]
+      },
+      {
+        "code": "time_not_reliable",
+        "severity": "minor",
+        "detail": "Swap time not always reliable",
+        "evidence_quotes": [
+          "sometimes when I'm on the phone, it takes time, otherwise 15-20 minutes."
+        ]
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "Orders per day not specified",
+        "evidence_quotes": [
+          "Yes, it is ₹120 per ton."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9422056.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Sukhi",
+      "city": null,
+      "orders_done": 20,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "It's easy, ma'am."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy token booking",
+        "evidence_quotes": [
+          "No ma'am, it doesn't come."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "Yes, it seems easy. It is easy."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "no issues with app",
+        "evidence_quotes": [
+          "No ma'am, whatever is there so far, I am understanding."
+        ]
+      },
+      {
+        "code": "reason_low_tension",
+        "detail": "no license required, low tension",
+        "evidence_quotes": [
+          "Otherwise, we don't have a license, so we had to take a yellow bike.",
+          "you can drive without a license too."
+        ]
+      },
+      {
+        "code": "source_friend",
+        "detail": "heard from friend",
+        "evidence_quotes": [
+          "Ma'am, my friend drove it, so he said to take a yellow bike."
+        ]
+      }
+    ],
+    "problems": []
+  },
+  {
+    "call_id": "9422247.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 11,
+      "avg_swap_time_min": 5
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book token",
+        "evidence_quotes": [
+          "Yes, Madam."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is understandable",
+        "evidence_quotes": [
+          "I mean, I understand, and the partners also use it, so it gets used in that. If I don't understand"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "mechanical_breakdown",
+        "severity": "major",
+        "detail": "bike keeps breaking down",
+        "evidence_quotes": [
+          "the bike keeps breaking down in between"
+        ]
+      },
+      {
+        "code": "poor_ride_quality",
+        "severity": "major",
+        "detail": "ride quality poor due to breakdowns",
+        "evidence_quotes": [
+          "the quality is good, but the bike keeps breaking down in between"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9422540.mp3",
+    "overall_sentiment": "neutral",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": null,
+      "company_name": null,
+      "city": null,
+      "orders_done": null,
+      "avg_swap_time_min": null
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, tell me."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "token booking is easy",
+        "evidence_quotes": [
+          "Yes, I go there, to the Uni Center, so they tell me how it is."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app seems right",
+        "evidence_quotes": [
+          "Yes, that seems right to me."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "easy_app_usability",
+        "severity": "minor",
+        "detail": "some confusion with app",
+        "evidence_quotes": [
+          "Oh, I don't understand."
+        ]
+      },
+      {
+        "code": "not_specified",
+        "severity": "minor",
+        "detail": "orders per day not specified",
+        "evidence_quotes": [
+          "Now, I don't know about that. What is it? Show me there."
+        ]
+      },
+      {
+        "code": "X",
+        "severity": "minor",
+        "detail": "company not specified",
+        "evidence_quotes": [
+          "I am doing it in the center.",
+          "Requested, requested."
+        ]
+      },
+      {
+        "code": "X",
+        "severity": "minor",
+        "detail": "job type not specified",
+        "evidence_quotes": [
+          "They are saying it is a lot."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9424564.mp3",
+    "overall_sentiment": "positive",
+    "happy": true,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": "Zip toe, zip toe.",
+      "city": "null",
+      "orders_done": 28,
+      "avg_swap_time_min": 3
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "Easy to ride",
+        "evidence_quotes": [
+          "Is it easy to use Yellow Bytes? Yes.",
+          "Yes, we also have a Yulu bike, we are using Yulu app. It's easy."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "Yes, if you need to swipe the battery, then you book a token by going to the registration."
+        ]
+      },
+      {
+        "code": "took_X_minutes",
+        "detail": "Battery swap takes 2-3 minutes",
+        "evidence_quotes": [
+          "If the battery is available at the station, then the battery is swiped in a maximum of two to three"
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "App is easy to use",
+        "evidence_quotes": [
+          "Yes Madam, it's easy. There isn't anything too complicated like unlocking the lock, swiping the battery, and we can locate"
+        ]
+      },
+      {
+        "code": "reason_swap_network",
+        "detail": "Good battery swap network",
+        "evidence_quotes": [
+          "Yulu's battery station is all over Bombay, I mean..."
+        ]
+      },
+      {
+        "code": "reason_referral",
+        "detail": "Referred by friend",
+        "evidence_quotes": [
+          "We have a friend who knows about Yulu bikes, meaning he has already been using Yulu, riding a Yulu bike."
+        ]
+      },
+      {
+        "code": "reason_availability",
+        "detail": "Many swap options available",
+        "evidence_quotes": [
+          "there are so many options that we can swipe it, swipe it, swipe it and get another bike."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "recharge_sold_out_issue",
+        "severity": "moderate",
+        "detail": "Recharge shows as sold out",
+        "evidence_quotes": [
+          "when you have to recharge, right? So, it shows as sold out.",
+          "it keeps showing as sold out. We are facing this problem"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9425543.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_full_time",
+      "company_name": null,
+      "city": null,
+      "orders_done": 7,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_to_ride",
+        "detail": "easy to ride",
+        "evidence_quotes": [
+          "Yes, it's easy, but the recharge is too high, I mean, no, it's okay."
+        ]
+      },
+      {
+        "code": "easy_token_booking",
+        "detail": "easy to book battery",
+        "evidence_quotes": [
+          "To book the battery.",
+          "Yes."
+        ]
+      },
+      {
+        "code": "easy_app_usability",
+        "detail": "app is easy to use",
+        "evidence_quotes": [
+          "Using the Yudu app application is easy.",
+          "Yes, sir."
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "recharges_are_very_expensive",
+        "severity": "major",
+        "detail": "recharges are very expensive",
+        "evidence_quotes": [
+          "right now, recharges are very expensive. The job I do for free, I'm not even getting that much."
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9427188.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_prior",
+      "job_type": "job_type_full_time",
+      "company_name": "Swiggy",
+      "city": null,
+      "orders_done": 33,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking is easy",
+        "evidence_quotes": [
+          "I went and touched the token and put the battery seat back on, it takes me 10 seconds"
+        ]
+      },
+      {
+        "code": "quick_swap_time",
+        "detail": "Battery swap is quick",
+        "evidence_quotes": [
+          "it takes me 10 seconds"
+        ]
+      },
+      {
+        "code": "easy_to_change_battery",
+        "detail": "Battery change is easy",
+        "evidence_quotes": [
+          "I went and touched the token and put the battery seat back on, it takes me 10 seconds"
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No problem with the app",
+        "evidence_quotes": [
+          "there is no problem in the coach, ma'am"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "mechanical_breakdown",
+        "severity": "major",
+        "detail": "Bike broke down after battery swap",
+        "evidence_quotes": [
+          "I was doing it, but it broke down.",
+          "After inserting the battery, it didn't turn on or off"
+        ]
+      },
+      {
+        "code": "poor_ride_quality",
+        "severity": "major",
+        "detail": "Bike stopped after battery inserted",
+        "evidence_quotes": [
+          "After inserting the battery, the bike stopped.",
+          "After inserting the battery, the bike is turning off."
+        ]
+      },
+      {
+        "code": "queue_at_station",
+        "severity": "moderate",
+        "detail": "Long queue at battery station",
+        "evidence_quotes": [
+          "at least 50 people are standing there"
+        ]
+      },
+      {
+        "code": "app_crashes",
+        "severity": "moderate",
+        "detail": "App/server went down",
+        "evidence_quotes": [
+          "Just now the server went down in the middle, nothing has come yet"
+        ]
+      }
+    ]
+  },
+  {
+    "call_id": "9428230.mp3",
+    "overall_sentiment": "negative",
+    "happy": false,
+    "attributes": {
+      "experience_level": "experience_level_new",
+      "job_type": "job_type_part_time",
+      "company_name": "Brozo company, BF Five",
+      "city": null,
+      "orders_done": 10,
+      "avg_swap_time_min": 1
+    },
+    "positives": [
+      {
+        "code": "easy_token_booking",
+        "detail": "Token booking was quick",
+        "evidence_quotes": [
+          "didn't take much time to book the token in the battery book"
+        ]
+      },
+      {
+        "code": "quick_swap_time",
+        "detail": "Battery swap took 1 minute",
+        "evidence_quotes": [
+          "your battery changed within a minute? Yes, Madam."
+        ]
+      },
+      {
+        "code": "no_issues_with_app",
+        "detail": "No issues with the app",
+        "evidence_quotes": [
+          "No, no, no, no madam, there is no other problem."
+        ]
+      },
+      {
+        "code": "reason_low_tension",
+        "detail": "No license, so uses Yulu",
+        "evidence_quotes": [
+          "I don't have a license, so I don't have an Activa"
+        ]
+      },
+      {
+        "code": "source_visible_bike_on_road",
+        "detail": "Saw others riding Yulu",
+        "evidence_quotes": [
+          "the people who ride Lulu bikes, I asked them"
+        ]
+      }
+    ],
+    "problems": [
+      {
+        "code": "mechanical_breakdown",
+        "severity": "major",
+        "detail": "Bike broke down after battery change",
+        "evidence_quotes": [
+          "my car suddenly broke down. I have put it in repair"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+user_id,username,city,cluster_name,acquisition_channel,no_of_days,kms,bike_version,bike_name,Rental Start,help_button_clicks,odo_distance,battery_swap_count,7. Company Name,Part Time / Full time,Orders / day
+8722180,Ravi shankarkumar,BLR,Indiranagar,Performance_Marketing,7,700,DEX_2.5,5038934,2025-08-14T09:19:12Z,1,72.1,1,Zepto,Part Time,13
+9426009,Muhammad Sani,BLR,ORR,Performance_Marketing,7,700,DEX_3.2,5083738,2025-08-15T08:59:59Z,3,28.9,2,Zepto,Part Time,9
+9429181,SUBHANKAR,BLR,Electronic City,Organic,7,700,DEX_2.5,5039868,2025-08-15T17:13:26Z,3,4.4,2,Binkit,Full Time,20
+8863425,Haider Raza,BLR,Indiranagar,Organic,7,200,DEX_3.3,5100526,2025-08-15T16:18:03Z,1,51,3,Zomato,Full Time,20
+9426159,Nazrul Islam,BLR,ORR,Performance_Marketing,7,200,DEX_2.5,5031881,2025-08-15T08:11:48Z,1,28.1,1,Zomato,Full Time,20
+9386524,Rajon Das,BLR,Whitefield,User Referral,7,200,DEX_3.3,5101251,2025-08-15T12:00:39Z,0,37.7,2,Zepto,Part Time,12
+9430845,Piarul Hoque,BLR,CBD,User Referral,7,200,DEX_3.3,5101012,2025-08-15T08:03:08Z,0,26.2,2,Blinkit,Full Time,18
+9425032,Jitendra Thapa,BLR,Electronic City,User Referral,7,700,DEX_2.5,5043059,2025-08-15T19:00:17Z,0,97,3,Binkit,Full Time,18
+9247957,Hadimul Hoque,BLR,CBD,Organic,7,200,DEX_3.2,5083959,2025-08-15T20:13:19Z,0,41.4,3,Binkit,Full Time,20
+881206,Mukesh Kumar Sah,BLR,Koramangala,Organic,7,700,DEX_3.3,5098434,2025-08-15T08:17:37Z,1,73.2,3,Swiggy,Part Time,13
+9429352,Sourav Bag,BLR,CBD,User Referral,7,200,DEX_3.2,5089732,2025-08-15T07:25:36Z,0,46.8,3,Zepto,Full Time,9
+9261838,kawchar islam laskar,BLR,ORR,Organic,7,200,DEX_3.3,5104706,2025-08-15T06:50:26Z,17,172.4,3,Swiggy,Full Time,20
+9430708,DHANRAJ paswan,BLR,ORR,User Referral,7,200,DEX_2.5,5032632,2025-08-15T15:16:20Z,0,16.8,2,mojo pizza,Full Time,20
+5831916,Bhai Nawab,BLR,CBD,Organic,7,200,DEX_3.2,5096178,2025-08-15T17:17:57Z,0,82.7,4,Swiggy,Full Time,4
+8445509,Abu sahd,BLR,Indiranagar,Organic,7,400,DEX_2.5,5046654,2025-08-15T08:20:33Z,4,106.1,5,Swiggy,Part Time,18
+9430082,TAPAN KUMAR DAS,BLR,Jayanagar,User Referral,7,700,DEX_3.3,5098865,2025-08-15T16:47:34Z,3,14.1,2,Binkit,Full Time,20
+9313340,Bipin Kumar dev,BOM,BKC,Organic,5,350,DEX_2.5,5049418,2025-08-14T12:16:38Z,2,111.3,2,Blinkit,Full Time,20
+9425543,Rohit Gupta,BOM,Powai_Cluster,Organic,7,200,DEX_2.5,5041592,2025-08-14T10:51:58Z,3,67.4,3,Swiggy,Full Time,13
+9351461,Vikas Gupta,BOM,Malad,Organic,7,10000,DEX_2.5,5047593,2025-08-14T10:23:19Z,9,110.8,7,Swiggy,Full Time,20
+9422540,aish mohammad,BOM,Andheri,User Referral,7,700,DEX_2.5,5037075,2025-08-14T16:48:30Z,2,0.6,1,Binkit,Full Time,18
+9184347,maruti madne,BOM,BKC,Performance_Marketing,7,450,DEX_2.5,5046547,2025-08-14T09:00:17Z,13,72.5,1,Swiggy,Full Time,13
+9416419,MohammedFaisal khan,BOM,BKC,Organic,7,200,DEX_2.5,5042589,2025-08-14T09:55:55Z,3,41.5,2,Binkit,Full Time,13
+9191435,sonu kumar,BOM,Malad,Campaign,7,200,DEX_2.5,5042424,2025-08-14T12:01:31Z,3,6.1,,Zepto,Part Time,20
+9409987,Brajesh kumar,BOM,BKC,Organic,7,200,DEX_3.2,5091921,2025-08-14T09:58:40Z,2,42.4,2,Zomato,Full Time,9
+9420978,Ashok KUMAR sahu,BOM,BKC,Organic,7,700,DEX_2.5,5045774,2025-08-14T16:16:39Z,5,42.9,2,Swiggy,Part Time,13
+9427188,suraj singh,BOM,BKC,User Referral,7,700,DEX_2.5,5041325,2025-08-15T10:17:10Z,5,9.8,2,Swiggy,Full Time,20
+9422056,MD Esraj,BOM,SOBO,User Referral,7,450,DEX_2.5,5040736,2025-08-15T10:43:24Z,3,23.3,1,Swiggy,Full Time,18
+9424564,Arun Yadav,BOM,BKC,User Referral,7,700,DEX_2.5,5046130,2025-08-15T09:14:30Z,0,49,2,Zepto,Full Time,20
+9428230,Antim Gupta,BOM,Andheri,Organic,7,200,DEX_2.5,5040577,2025-08-15T09:46:22Z,3,32.2,,Borzo,Part Time,13
+8806556,Ganga kumar,BOM,Navi Mumbai Phase 1,Campaign,7,200,DEX_3.2,5092501,2025-08-15T09:58:13Z,3,20.8,,Zomato,Part Time,4
+9422247,jugunu idirishi,BOM,BKC,Organic,7,200,DEX_2.5,5048481,2025-08-15T09:15:09Z,4,32.9,3,Swiggy,Part Time,13
+9417429,Gulfam,BOM,SOBO,Campaign,7,700,DEX_2.5,5043181,2025-08-15T09:30:00Z,2,23.2,2,Zomato,Full Time,20
+9432170,Nilkantha Mandol,GGN,Gurgaon,Promoter,7,700,DEX_3.2,5094744,2025-08-15T14:19:19Z,1,36.3,2,Swiggy,Full Time,18
+9295539,Akshay Kumar,GGN,Gurgaon,Promoter,7,10000,DEX_3.2,5082685,2025-08-15T13:37:47Z,1,66.7,3,Blinkit,Full Time,20
+9374032,Shivshankar Kumar sen,DEL,Dwarka and West.,User Referral,7,700,DEX_3.2,5093331,2025-08-15T07:04:25Z,2,153.5,4,Zepto,Full Time,20
+9432578,Sandeep Kumar,GGN,Gurgaon,Organic,7,10000,DEX_3.2,5096935,2025-08-15T19:23:55Z,0,36.8,2,Zomato,Part Time,13
+9201276,Parimal agasti,GGN,Gurgaon,Organic,7,10000,DEX_3.3,5102834,2025-08-15T10:36:17Z,0,134,5,Swiggy,Part Time,20
+9431377,chintu,GGN,Gurgaon,Promoter,7,200,DEX_3.2,5095924,2025-08-15T10:44:51Z,2,86.5,3,Binkit,Full Time,18
+9431203,bapi das,GGN,Gurgaon,User Referral,7,10000,DEX_3.2,5092801,2025-08-15T08:39:49Z,3,71.1,2,Zomoto,Full Time,9
+9428575,Sandeep Chauhan,DEL,North Campus,Dost Referral,7,700,DEX_3.3,5110375,2025-08-15T08:32:09Z,9,64.4,4,Zomoto,Full Time,18
+9431225,Dhiraj Kumar,DEL,North Campus,Promoter,7,10000,DEX_3.3,5101908,2025-08-15T08:24:57Z,2,80.2,2,Swiggy,Full Time,20
+9431305,Deepak kumar Yadav,GGN,Gurgaon,Promoter,7,10000,DEX_3.2,5087652,2025-08-15T12:20:06Z,0,170.1,3,Blinkit,Full Time,18
+9431205,Abbu Bakar Khan,NOI,Noida,Organic,7,10000,DEX_2.5,5045326,2025-08-15T07:02:19Z,13,173.9,4,Zomato,Full Time,20
+9431188,Saurav Kumar,DEL,Dwarka and West.,Organic,7,10000,DEX_3.2,5097339,2025-08-15T06:32:00Z,3,149.8,3,Zomoto,Full Time,20
+9428926,Priyanshu Mishra,DEL,South Delhi,Promoter,7,700,DEX_3.2,5082966,2025-08-15T13:12:28Z,21,56.4,2,Binkit,Full Time,20
+8431834,ram ashish Verma,DEL,South Delhi,Promoter,7,700,DEX_3.2,5088809,2025-08-15T09:05:06Z,0,146.4,3,Swiggy,Full Time,20
+9431233,Krishna Kumar,DEL,Dwarka and West.,Promoter,7,700,DEX_3.2,5093394,2025-08-15T16:54:45Z,0,40.7,3,Binkit,Full Time,18
+9421063,Musaraf Ahmed,HYD,Kondapur,Organic,7,600,DEX_3.3,5112010,2025-08-12T13:40:45Z,35,42.3,2,Binkit,Part Time,18
+9417730,Vikash Kumar,HYD,Kondapur,Organic,7,600,DEX_3.3,5112401,2025-08-12T16:03:25Z,5,9.3,1,Binkit,Full Time,13
+9422530,karthik,HYD,Kondapur,Organic,7,600,DEX_3.3,5110247,2025-08-12T12:28:17Z,11,49.3,1,Swiggy,Part Time,4
+4672087,A SUBHAM KUMAR DORA,HYD,Kondapur,Organic,7,600,DEX_3.3,5113275,2025-08-12T14:15:21Z,0,57,3,Swiggy,Full Time,18
+9402530,Narasimha Mundla,HYD,Kondapur,Organic,7,600,DEX_3.3,5113284,2025-08-12T12:04:23Z,0,208.4,5,Swiggy,Full Time,20
+9422533,Manglesh Kumar,HYD,Kondapur,Organic,7,600,DEX_3.3,5095431,2025-08-12T12:31:16Z,0,79,1,Zepto,Full Time,20
+9412811,Mahabir Singh,HYD,Kondapur,Organic,7,600,DEX_3.3,5109201,2025-08-14T12:55:36Z,0,74.7,4,Zepto,Full Time,20
+9419520,Narsimha Bodi,HYD,Kondapur,Organic,7,600,DEX_3.3,5099888,2025-08-14T12:47:28Z,1,133,3,Swiggy,Full Time,20
+9324947,Boramala Prasad Rao,HYD,Kondapur,Organic,7,600,DEX_3.3,5108442,2025-08-14T15:10:31Z,7,6.1,2,Binkit,Part Time,18
+9424611,Manoj kumar,HYD,Kondapur,User Referral,7,600,DEX_3.3,5110738,2025-08-14T17:17:44Z,2,3.1,,Binkit,Full Time,20
+9385844,mohd shakir,HYD,Kondapur,Organic,7,600,DEX_3.3,5113185,2025-08-14T14:39:52Z,1,10.1,,Zomato,Full Time,20
+9097591,Mahesh Kumar,HYD,Kondapur,Promoter,7,600,DEX_3.3,5105852,2025-08-14T12:47:34Z,2,44.9,1,Zepto,Full Time,18
+9396112,Nagula Vishwanath,HYD,Kondapur,Organic,7,600,DEX_3.3,5112686,2025-08-14T11:34:49Z,1,65.1,3,Swiggy,Full Time,13
+9407812,Subrat Lenka,HYD,Kondapur,Organic,7,600,DEX_3.3,5111917,2025-08-15T13:00:23Z,5,132.9,3,Swiggy,Part Time,13
+9431746,Ananta Maharana,HYD,Kondapur,Organic,7,600,DEX_3.3,5105571,2025-08-15T17:18:13Z,5,7.5,1,Swiggy,Full Time,20
